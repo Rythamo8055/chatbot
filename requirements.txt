@@ -1,5 +1,5 @@
 streamlit
-chromadb==0.3.21
+chromadb
 pydantic==1.10.7
 google-generativeai
 pdfplumber
