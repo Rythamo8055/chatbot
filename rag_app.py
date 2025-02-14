@@ -91,7 +91,7 @@ st.markdown(
 async def load_chroma_client():
     try:
         from utils import initialize_chroma_client
-        client = initialize_chroma_client()
+        client = chromadb.Client()
         collection_name = "gemini_rag_collection"
         try:
             collection = client.get_collection(name=collection_name)
