@@ -1,9 +1,8 @@
 streamlit
-chromadb
+chromadb==0.3.21
 google-generativeai
 pdfplumber
 python-docx
 Pillow
 sentence-transformers
 nltk
-pysqlite3
