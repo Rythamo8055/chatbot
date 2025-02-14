@@ -484,7 +484,7 @@ async def main():
 
 if __name__ == "__main__":
 
-    asyncio.run(main()) and import streamlit as st
+    asyncio.run(main())
 
 import chromadb
 
