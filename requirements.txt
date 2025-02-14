@@ -6,3 +6,4 @@ python-docx
 Pillow
 sentence-transformers
 nltk
+pysqlite3
