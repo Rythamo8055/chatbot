@@ -1,5 +1,6 @@
+--only-binary=:all:
 streamlit
-chromadb
+chromadb==0.3.21
 pydantic==1.10.7
 google-generativeai
 pdfplumber
