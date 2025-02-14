@@ -572,7 +572,7 @@ def generate_gemini_response(query, context_documents, system_prompt, temperatur
 
         )
 
-        return response.textimport io
+        return response.text
 
 import pdfplumber
 
